@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">intent</string>
+    <string name="welcome_message">Hola!</string>
+    <string name="test_app_localization">Test App Localization</string>
+</resources>
